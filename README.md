@@ -1,4 +1,6 @@
-# Welcome to my personal website repository! This is where I share my passion for software development and AI through a simple and elegant website.
+# Welcome to my personal website repository! 
+
+## This is where I share my passion for software development and AI through a simple and elegant website.
 
 ## Sections
 Introduction: Learn a bit about me and my journey into the world of programming and innovation.
